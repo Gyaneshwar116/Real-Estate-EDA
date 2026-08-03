@@ -234,3 +234,21 @@ The following analyses were performed:
 - Machine Learning
 - Data Analysis
 
+## 📂 Repository Structure
+
+```text
+Real-Estate-EDA/
+│
+├── README.md                         # Project overview and documentation
+├── Hyderabad_Real_Estate_EDA.ipynb   # Complete EDA notebook
+├── Hyderabad_Real_Estate_Listings.csv # Raw scraped dataset
+├── cleaned_data.csv                   # Cleaned dataset used for analysis
+├── requirements.txt                  # Python dependencies
+└── Images/                           # Visualizations and charts
+    ├── Histogram.png
+    ├── Boxplot.png
+    ├── Scatterplot.png
+    ├── Correlation_Heatmap.png
+    └── Business_Insights.png
+```
+
